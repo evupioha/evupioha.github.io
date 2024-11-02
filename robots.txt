@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://evupioha.github.io/HFh/sitemap_index.txt
+Sitemap: https://evupioha.github.io/WCT/sitemap_index.txt
+Sitemap: https://evupioha.github.io/gSZ/sitemap_index.txt
+Sitemap: https://evupioha.github.io/mHd/sitemap_index.txt
